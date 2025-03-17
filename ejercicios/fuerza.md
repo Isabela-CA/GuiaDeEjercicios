@@ -1,0 +1,1 @@
+## Ejercicio Fuerza: Entrenamiento con Pesas
