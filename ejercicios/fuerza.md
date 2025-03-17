@@ -9,3 +9,10 @@ El entrenamiento de fuerza utiliza resistencia, como pesas libres, máquinas o e
 - Aumenta la masa muscular y la fuerza.
 - Fortalece huesos y articulaciones.
 - Mejora el metabolismo basal.
+
+## Instrucciones
+
+1. Comienza con un calentamiento de 5-10 minutos, enfocándote en la movilidad articular.
+2. Realiza ejercicios específicos de levantamiento de pesas (prensa, peso muerto, press de banca) en series de 8-12 repeticiones.
+3. Incluye descansos entre series (1-2 minutos) y aumenta progresivamente el peso según tu capacidad.
+4. Finaliza con estiramientos para prevenir molestias y mejorar la flexibilidad.
