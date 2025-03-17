@@ -18,3 +18,9 @@ La sierra es un ejercicio de Pilates que combina estiramiento y fortalecimiento,
 4. Mantén la posición durante 2-3 segundos, exhalando profundamente.
 5. Vuelve al centro y repite el movimiento hacia el lado izquierdo.
 6. Realiza de 8 a 10 repeticiones alternando ambos lados.
+
+## Consejos
+
+- Mantén los hombros relajados y evita encorvarte.
+- Controla el movimiento para no perder el equilibrio.
+- Si sientes tensión en las piernas, flexiona ligeramente las rodillas.
