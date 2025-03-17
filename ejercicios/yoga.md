@@ -17,3 +17,9 @@ Esta es una postura fundamental en yoga que estira y fortalece múltiples grupos
 3. Mantén las piernas rectas o ligeramente flexionadas, y deja que los talones se acerquen al suelo sin forzarlos.
 4. Relaja la cabeza entre los brazos y dirige la mirada hacia tus pies.
 5. Mantén la postura durante 30 segundos a 1 minuto mientras respiras profundamente.
+
+## Consejos
+
+- Mantén la columna alargada, evitando encorvar la espalda.
+- Distribuye el peso de manera uniforme entre manos y pies.
+- Si sientes demasiada tensión, flexiona ligeramente las rodillas o acorta la distancia entre manos y pies.
