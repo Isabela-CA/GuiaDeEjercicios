@@ -17,3 +17,9 @@ Este ejercicio específico se centra en estirar los músculos isquiotibiales, me
 3. Intenta alcanzar los dedos de tus pies con las manos. Si no puedes, llega lo más lejos que te sea cómodo.
 4. Mantén la posición durante 15-30 segundos, respirando profundamente.
 5. Regresa a la posición inicial lentamente y repite de 3 a 5 veces.
+
+## Consejos
+
+- No rebotes mientras estiras; mantén el movimiento lento y controlado.
+- Si sientes demasiada tensión, flexiona ligeramente las rodillas.
+- Realiza este ejercicio después de calentar o como parte de tu rutina de enfriamiento.
