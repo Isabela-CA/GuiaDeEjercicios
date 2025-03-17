@@ -23,3 +23,9 @@
    - 15 repeticiones de Pull-ups.
    - 9 repeticiones de Thrusters.
    - 9 repeticiones de Pull-ups.
+
+## Consejos
+
+- Asegúrate de mantener una buena técnica en los thrusters para evitar lesiones en la espalda baja y los hombros. Realiza un movimiento fluido y controlado en todo momento.
+- Si no puedes hacer pull-ups completos, utiliza bandas de asistencia o realiza jumping pull-ups para completar el entrenamiento.
+- Mantén un ritmo constante. En este tipo de entrenamientos de alta intensidad, la clave es mantener una buena respiración y evitar hacer pausas largas entre cada repetición.
