@@ -11,3 +11,15 @@
 - Mejora la técnica de levantamiento de pesas y los movimientos funcionales.
 - Ayuda a quemar muchas calorías en poco tiempo.
 - Desarrolla una mayor agilidad y coordinación.
+
+## Instrucciones
+
+1. Calentamiento:
+    Comienza con un calentamiento de 5-10 minutos que incluya movimientos dinámicos como saltos, rotaciones de hombros, estiramientos de piernas y movilidad de caderas.
+2. Entrenamiento - Fran (WOD):
+   - 21 repeticiones de Thrusters (sentadilla con press de hombro).
+   - 21 repeticiones de Pull-ups (dominadas).
+   - 15 repeticiones de Thrusters.
+   - 15 repeticiones de Pull-ups.
+   - 9 repeticiones de Thrusters.
+   - 9 repeticiones de Pull-ups.
