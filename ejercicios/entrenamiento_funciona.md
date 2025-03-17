@@ -1,0 +1,1 @@
+## Ejercicio Entrenamiento Funcional: Sentadilla con press de hombros
