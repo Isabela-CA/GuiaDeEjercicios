@@ -16,3 +16,9 @@ El entrenamiento de fuerza utiliza resistencia, como pesas libres, máquinas o e
 2. Realiza ejercicios específicos de levantamiento de pesas (prensa, peso muerto, press de banca) en series de 8-12 repeticiones.
 3. Incluye descansos entre series (1-2 minutos) y aumenta progresivamente el peso según tu capacidad.
 4. Finaliza con estiramientos para prevenir molestias y mejorar la flexibilidad.
+
+## Consejos
+
+- Mantén una técnica adecuada para evitar lesiones.
+- Ajusta el peso al nivel de tu experiencia y fuerza.
+- Lleva un registro de tus progresos para optimizar tu entrenamiento.
