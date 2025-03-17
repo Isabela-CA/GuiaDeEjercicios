@@ -9,3 +9,11 @@ Este ejercicio específico se centra en estirar los músculos isquiotibiales, me
 - Aumenta la flexibilidad de los músculos isquiotibiales.
 - Reduce el riesgo de lesiones relacionadas con la falta de elasticidad.
 - Mejora la postura y la comodidad al sentarse o caminar.
+
+## Instrucciones
+
+1. Siéntate en el suelo con las piernas extendidas hacia adelante y juntas.
+2. Inclina el torso lentamente hacia las piernas mientras mantienes la espalda recta.
+3. Intenta alcanzar los dedos de tus pies con las manos. Si no puedes, llega lo más lejos que te sea cómodo.
+4. Mantén la posición durante 15-30 segundos, respirando profundamente.
+5. Regresa a la posición inicial lentamente y repite de 3 a 5 veces.
