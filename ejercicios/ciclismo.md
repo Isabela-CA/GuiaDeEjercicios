@@ -15,3 +15,9 @@ El ciclismo es una actividad aeróbica que combina cardio y resistencia, ya sea 
 1. Comienza con un calentamiento ligero de 5-10 minutos pedaleando a un ritmo suave.
 2. Pedalea durante 30-60 minutos, alternando entre ritmos moderados y rápidos, según tu nivel de condición física.
 3. Finaliza con un enfriamiento progresivo y estiramientos para los músculos de las piernas.
+
+## Consejos
+
+- Ajusta la altura del sillín para una posición cómoda y evitar lesiones.
+- Mantén una buena postura con la espalda recta y los codos ligeramente flexionados.
+- Hidrátate durante la sesión, especialmente si es al aire libre.
